@@ -1,6 +1,6 @@
 cask "omo-hello" do
-  version "0.1.0"
-  sha256 "f922a2be073adeb8aea21cc00352ce97f546c3242593cc284306168294529b66"
+  version "0.1.1"
+  sha256 "de47706afec3243d0fc3075cab45269f3bfd8dfcf4be946bd53cbc1bf05ff3cf"
 
   url "https://github.com/marsjane/omo-hello/releases/download/v#{version}/OmoHello-#{version}.zip"
   name "OmoHello"
